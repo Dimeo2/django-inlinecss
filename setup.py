@@ -7,7 +7,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 # Package meta-data.
-NAME = "django-inlinecss-redux"
+NAME = "django-inlinecss"
 SRC_DIR = "django_inlinecss"
 DESCRIPTION = "A Django app useful for inlining CSS (primarily for e-mails)"
 URL = "https://github.com/WhyNotHugo/django-inlinecss"
